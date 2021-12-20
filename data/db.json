@@ -36,6 +36,38 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Homus",
+      "ingredients": [
+        "limon",
+        "Tahin"
+      ],
+      "method": "Whatever",
+      "cookingTime": "10 minutes",
+      "id": "q5KlRLd"
+    },
+    {
+      "title": "new recipe",
+      "ingredients": [
+        "one",
+        "two",
+        "three"
+      ],
+      "method": "make one with two and three",
+      "cookingTime": "10 minutes",
+      "id": "qvJIu8u"
+    },
+    {
+      "title": "New Recipe V2.0",
+      "ingredients": [
+        "Three",
+        "Two",
+        "One"
+      ],
+      "method": "Make three with one, then one with three!",
+      "cookingTime": "100 minutes",
+      "id": "rXoFbDH"
     }
   ]
 }
